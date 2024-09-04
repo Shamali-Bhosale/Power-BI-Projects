@@ -4,7 +4,7 @@
 - Sales Daashboard - Used 3 years of sales data, done YOY analysis, monthwise growth in sale, top customers, top states based on sale.
 - Zomato Dashboard - Used 4 years of data to do analysis over food type, food items which food generating high revenue and in which cities & states. How much ratings we are getting.gain users,lost users.
 
-Work done :
+Project steps :
 - I have downloaded data for all projects from internet some raw data I have downloaded from Kaggle some data from microsoft website and some from other sites.
 - There are some CSV Files and some excels. Also have used SQL Server as a datasourse.
 - First I fetch data into Power BI Desktop then I clean the data in power query editor so done some transformations like remove unnecessary columns,replaced values,created custom columns & conditional columns,
