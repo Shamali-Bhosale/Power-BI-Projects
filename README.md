@@ -1,5 +1,5 @@
 - Amazon Dashboard - Used sales data for product analysis. Have shown different products generating how much sale, how much units are delivered in different cities and states.
-- Credit Card Transactions - Created CC customer report and CC transaction report in which have analyzed data weekly. so have analyzed revenue based on customer type, expenditure type, working profession. 
+- Credit Card Transaction Dashboard - Created CC customer report and CC transaction report in which have analyzed data weekly. so have analyzed revenue based on customer type, expenditure type, working profession. 
  and WOW revenue, transactions by chips and card type.
 - Sales Daashboard - Used 3 years of sales data, done YOY analysis, monthwise growth in sale, top customers, top states based on sale.
 - Zomato Dashboard - Used 4 years of data to do analysis over food type, food items which food generating high revenue and in which cities & states. How much ratings we are getting.gain users,lost users.
