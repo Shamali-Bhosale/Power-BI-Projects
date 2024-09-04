@@ -2,7 +2,7 @@
 - Credit Card Transaction Dashboard - Created CC customer report and CC transaction report in which have analyzed data weekly. so have analyzed revenue based on customer type, expenditure type, working profession. 
  and WOW revenue, transactions by chips and card type.
 - Sales Daashboard - Used 3 years of sales data, done YOY analysis, monthwise growth in sale, top customers, top states based on sale.
-- Zomato Dashboard - Used 4 years of data to do analysis over food type, food items which food generating high revenue and in which cities & states. How much ratings we are getting.gain users,lost users.
+- Zomato Dashboard - Used 4 years of data to do analysis over food type, food items which food generating how much revenue and in which cities & states. How much ratings we are getting.gain users,lost users.
 
 Project steps :
 - I have downloaded data for all projects from internet some raw data I have downloaded from Kaggle some data from microsoft website and some from other sites.
